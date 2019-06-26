@@ -1,0 +1,39 @@
+Problem Defination:
+Rockwell  automation Inc is one company which provides IT solutions .And the company has presence all over the world .Firstly it use to provide solutions on basic level i.e.  this company used to provide solutions on private cloud
+but after some time due to growth in IT industry company wants to use the Amazon Web Services which are present at public 
+cloud.In this case study we have to take company as one entity and  customer as another entity in which  company will contain no. of employees and customers sends request that employees will respond them by giving IT solutions over the problem statement  on the public  Amazon Web  Services.By providing solutions publically  the customer can access the solution  form anywhere in the world by human resourse portal solutions from anywhere in the world.And now the company wanted to build the solutions in  public clou Google cloud plateform.
+
+Functional Requirements:
+
+*Functional Requirements of company:
+
+1)searching for the request of customers
+2)giving response to customer
+3)doing task
+4)adding employees
+4)deleting employees
+5)maintaining records
+6)providing solutions
+7)registration
+8)login
+
+
+*Functional Requirements of customers:
+
+1)registration
+2)login
+3)sending request
+4)give feedback
+5)accepting solution from company
+6)searching
+
+Non functional requirements:
+
+1)Scalability
+2)maintainability
+3)portability
+4)reusability
+5)security
+6)availability
+7)accuricy
+
