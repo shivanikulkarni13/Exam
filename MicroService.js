@@ -15,5 +15,5 @@ var userController=function (request, response) {
 };
 
 app.get('/user',userController );
-var server = app.listen(8000);
-console.log("Listening At Port 8000");
+var server = app.listen(4000);
+console.log("Listening At Port 4000");
